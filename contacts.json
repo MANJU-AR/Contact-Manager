@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Rajesh Kumar",
+        "phone": "+91-98765-43210",
+        "email": "rajesh.kumar@tcs.com",
+        "address": "A-301, Shanti Apartments, Sector 15, Gurgaon, Haryana 122001"
+    },
+    {
+        "name": "Priya Sharma",
+        "phone": "+91-87654-32109",
+        "email": "priya.sharma@infosys.com",
+        "address": "B-12, Green Valley Society, Whitefield, Bengaluru, Karnataka 560066"
+    },
+    {
+        "name": "Amit Singh",
+        "phone": "+91-96543-21098",
+        "email": "amit.singh@wipro.com",
+        "address": "Flat 204, Sunrise Residency, Bandra West, Mumbai, Maharashtra 400050"
+    },
+    {
+        "name": "Sneha Patel",
+        "phone": "+91-85432-10987",
+        "email": "sneha.patel@gmail.com",
+        "address": "C-45, Satellite Road, Ahmedabad, Gujarat 380015"
+    },
+    {
+        "name": "Vikram Reddy",
+        "phone": "+91-74321-09876",
+        "email": "vikram.reddy@microsoft.com",
+        "address": "Plot 123, HITEC City, Madhapur, Hyderabad, Telangana 500081"
+    },
+    {
+        "name": "Kavya Menon",
+        "phone": "+91-63210-98765",
+        "email": "kavya.menon@techm.com",
+        "address": "Villa 67, Marine Drive, Kochi, Kerala 682031"
+    },
+    {
+        "name": "Rohit Gupta",
+        "phone": "+91-52109-87654",
+        "email": "rohit.gupta@hcl.com",
+        "address": "E-789, Connaught Place, New Delhi 110001"
+    },
+    {
+        "name": "Ananya Iyer",
+        "phone": "+91-41098-76543",
+        "email": "ananya.iyer@cts.com",
+        "address": "F-234, Anna Nagar, Chennai, Tamil Nadu 600040"
+    },
+    {
+        "name": "Arjun Joshi",
+        "phone": "+91-30987-65432",
+        "email": "arjun.joshi@capgemini.com",
+        "address": "G-56, Koregaon Park, Pune, Maharashtra 411001"
+    },
+    {
+        "name": "Meera Agarwal",
+        "phone": "+91-29876-54321",
+        "email": "meera.agarwal@accenture.com",
+        "address": "H-890, Sector 62, Noida, Uttar Pradesh 201309"
+    },
+    {
+        "name": "Karthik Nair",
+        "phone": "+91-18765-43210",
+        "email": "karthik.nair@oracle.com",
+        "address": "Apartment 12B, Electronic City Phase 1, Bengaluru, Karnataka 560100"
+    },
+    {
+        "name": "Ritu Bansal",
+        "phone": "+91-07654-32109",
+        "email": "ritu.bansal@ibm.com",
+        "address": "J-45, Model Town, Chandigarh 160022"
+    },
+    {
+        "name": "Siddharth Chopra",
+        "phone": "+91-96543-21087",
+        "email": "siddharth.chopra@deloitte.com",
+        "address": "K-123, Golf Course Road, Gurgaon, Haryana 122002"
+    },
+    {
+        "name": "Divya Krishnan",
+        "phone": "+91-85432-10976",
+        "email": "divya.krishnan@amazon.com",
+        "address": "L-789, Indiranagar, Bengaluru, Karnataka 560038"
+    },
+    {
+        "name": "Manish Trivedi",
+        "phone": "+91-74321-09865",
+        "email": "manish.trivedi@flipkart.com",
+        "address": "M-234, Vijay Nagar, Indore, Madhya Pradesh 452010"
+    },
+    {
+        "name": "Pooja Verma",
+        "phone": "+91-63210-98754",
+        "email": "pooja.verma@paytm.com",
+        "address": "N-567, Sector 18, Noida, Uttar Pradesh 201301"
+    },
+    {
+        "name": "Rahul Saxena",
+        "phone": "+91-52109-87643",
+        "email": "rahul.saxena@zomato.com",
+        "address": "O-890, Cyber Hub, Gurgaon, Haryana 122002"
+    },
+    {
+        "name": "Shreya Kapoor",
+        "phone": "+91-41098-76532",
+        "email": "shreya.kapoor@swiggy.com",
+        "address": "P-123, Koramangala, Bengaluru, Karnataka 560034"
+    },
+    {
+        "name": "Abhishek Jain",
+        "phone": "+91-30987-65421",
+        "email": "abhishek.jain@ola.com",
+        "address": "Q-456, HSR Layout, Bengaluru, Karnataka 560102"
+    },
+    {
+        "name": "Nisha Rajput",
+        "phone": "+91-29876-54310",
+        "email": "nisha.rajput@byju.com",
+        "address": "R-789, Jayanagar, Bengaluru, Karnataka 560011"
+    }
+]
